@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on Singing Voice Synthesis.
 - 🎵 I'm an electronic music producer.
-- 🏫 I'm a first-year Music Tech student at Georgia Tech.
+- 🏫 I'm a second-year Music Tech student at Georgia Tech.
 
 [![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerryuhoo&count_private=true&show_icons=true&theme=github_dark&include_all_commits=false)
 ](https://github.com/jerryuhoo)
