@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🎵 I'm an electronic music producer and programmer.
 - 🏫 I'm a recent Music Tech graduate from Georgia Tech, currently looking for job opportunities.
-- - 🔭 My research experience includes Singing Voice Synthesis (SVS) and perceptual loss.
+- 🔭 My research experience includes Singing Voice Synthesis (SVS) and perceptual loss.
 
 [![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerryuhoo&count_private=true&show_icons=true&theme=github_dark&include_all_commits=false)
 ](https://github.com/jerryuhoo)
